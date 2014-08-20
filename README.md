@@ -8,6 +8,8 @@ CoffeeScriptで作成
 
 ⑴node.js npm 導入
 
+⑵コマンド　$npm install -g grunt-cli
+
 ⑵プロジェクトのルートディレクトリでコマンド　$npm install （もしかしたらsudoが必要）
 
 ⑶プロジェクトのルートディレクトリでコマンド　$grunt
