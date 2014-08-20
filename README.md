@@ -21,11 +21,8 @@ CoffeeScriptで作成
 ⑶入力例）
 
 	3
-	
 	abcde
-
 	pepper
-	
 	aaaaa
 	
 一番上に入れる単語数、その数だけの単語を入れてEnter２回　で結果が表示されます。
