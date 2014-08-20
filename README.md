@@ -2,7 +2,9 @@ anagram_pgcon4_yoshii
 =====================
 CoffeeScriptで作成
 
-起動方法
+
+
+【起動方法】
 
 ⑴node.js npm 導入
 
@@ -12,7 +14,8 @@ CoffeeScriptで作成
 
 ⑷プロジェクトのルートディレクトリでコマンド　$node lib/main.js で起動
 
-仕様
+
+【仕様】
 
 ⑴ある文字列の部分文字列が回文になっているかどうかを判定して、含まれている回文の部分文字列の数を返します
 
@@ -31,7 +34,8 @@ CoffeeScriptで作成
 
 それ以外は落ちます。
 
-使用したツール
+
+【使用したツール】
 
 ⑴実装 CoffeeScript node.js
 
